@@ -1,0 +1,27 @@
+nav {
+ background-color:#81D8D0;
+ height: 60px;
+}
+nav label.logo{
+  color: white;
+  font-family: Fantasy;
+  margin:30px;
+  font-size: 35px
+  
+
+}
+ body{ 
+background-image: url("/IMG-20241127-WA0009~2.jpg");
+background-repeat: no-repeat;
+  outline: none;
+  background-size: 430px 4900px;
+  color:white;
+
+ 
+}
+div img{height: 500px;
+display:flex;
+border-radius: 20px;
+
+
+
